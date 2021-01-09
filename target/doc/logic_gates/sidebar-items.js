@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["and","Implements a boolean `and` gate taking as input two bits and returns a bit as ouput"],["xor","Implements a boolean `xor` gate taking as input two bits and returning a bit as ouput"]]});
